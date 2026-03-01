@@ -5,11 +5,12 @@ description = "Add your description here"
 requires-python = ">=3.14"
 dependencies = [
     "basedpyright>=1.38.2",
+    "fastparquet>=2025.12.0",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "openpyxl>=3.1.5",
     "pandas>=3.0.1",
-    "polars>=1.38.1",
+    "pyarrow>=23.0.1",
     "pyrefly>=0.54.0",
     "ruff>=0.15.4",
     "scikit-learn>=1.8.0",
